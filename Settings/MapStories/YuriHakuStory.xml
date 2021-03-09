@@ -19,10 +19,7 @@
 		<Story Name="YuriHakuStoryEVENT" Parent="BaseFillingStory">
 			<DisplayName>Learn a new Law</DisplayName>
 			<Desc>
-				[NAME] arrived to hear the secrets of this strange Law.
-				\nThe warrior, dressed in strange and foreign garb, glared at [NAME] with the fierce eyes of someone who had seen endless battles. Black, putrefied veins wove their way along their musculature and [NAME] realised belatedly that one of their arms was hanging limply by their side.
-				\n"I have reached my end," the warrior explained, "Taken in too much destructive force. Though I thought myself a ruler, I could not stand before Heaven. Perhaps in another life, you could have been a ruler yourself. Bring knowledge of this law to one with power."
-				\nThe warrior's commanding voice fell upon [NAME] like a vicious wind, though they meant no harm. As they spoke, they withdrew a piece of paper from within their being - a ragged strip dense with information. They held it forward for [NAME] to read.
+				You found a strange book in the floor while adventuring in the city.
 			</Desc>
 			<Selections>
 				<li>

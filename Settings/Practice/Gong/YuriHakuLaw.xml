@@ -2,7 +2,7 @@
 	<Gong Name="YuriHakuLaw">   <!--基础模板 -->
 		<DisplayName>Haku Style: Ice Needles</DisplayName>
 		<Desc>One of the lost arts, through this law you will achieve incredible speed and be able to control the Water and Wind elements to release it in the form of Ice.</Desc>
-		<SelectDesc>This Law is not for the Weak, you will need to Suffer like Prey to eventually become the Hunter. Do you accept this Path?</SelectDesc>
+		<SelectDesc>This Law is not for the Weak, you will need to Suffer like Prey to eventually become the Hunter. Do you accept this Path or will you continue living like Prey?</SelectDesc>
 		<FiveBaseNeed>-1, -1, -1, -1, -1</FiveBaseNeed>
 		<SkillSetName></SkillSetName>
 		<ElementKind>Shui</ElementKind>
