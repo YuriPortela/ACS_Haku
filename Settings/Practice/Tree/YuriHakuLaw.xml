@@ -24,7 +24,7 @@
 		<GodCount>0</GodCount>
 	</Node>
 	
-	<Node Name="Gong1_a1" Gong="Gong_1_Shui">
+	<Node Name="Gong1_a1" Gong="YuriHakuLaw">
 		<Esoterica>Magic_BuidPuppet</Esoterica>
 		<DisplayName>赋灵术</DisplayName>
 		<Level>Qi</Level>
@@ -49,7 +49,7 @@
 		<GodCount>0</GodCount>
 	</Node>
 	 
-	<Node Name="Gong1_a4" Gong="Gong_1_Shui">
+	<Node Name="Gong1_a4" Gong="YuriHakuLaw">
 		<Esoterica>Gong1_Esoterica_1</Esoterica>
 		<DisplayName>五泉涤心</DisplayName>
 		<Level>Qi</Level>
@@ -70,14 +70,14 @@
 		<GodCount>0</GodCount>
 	</Node>
 	
-	<Node Name="Gong1_a5" Gong="Gong_1_Shui">
+	<Node Name="Gong1_a5" Gong="YuriHakuLaw">
 		<Level>Qi</Level>
 		<Index>5</Index>
 		<Line>0,0,0,0,0,0,2,1</Line>	
 	</Node>
 	
 	
-	<Node Name="Gong1_a6" Gong="Gong_1_Shui">
+	<Node Name="Gong1_a6" Gong="YuriHakuLaw">
 		<Esoterica>FightSkillEsoterica_1</Esoterica>
 		<DisplayName>先天罡气</DisplayName>
 		<Level>Qi</Level>
@@ -98,13 +98,13 @@
 		<GodCount>0</GodCount>
 	</Node>
 	
-	<Node Name="Gong1_a7" Gong="Gong_1_Shui">
+	<Node Name="Gong1_a7" Gong="YuriHakuLaw">
 		<Level>Qi</Level>
 		<Index>7</Index>
 		<Line>0,0,0,0,0,1,2,0</Line>	
 	</Node>
 	
-	<Node Name="Gong1_a8" Gong="Gong_1_Shui">
+	<Node Name="Gong1_a8" Gong="YuriHakuLaw">
 		<Esoterica>Magic_Healing_Damage_1</Esoterica>
 		<DisplayName>化伤术</DisplayName>
 		<Level>Qi</Level>
@@ -125,7 +125,7 @@
 		<GodCount>0</GodCount>
 	</Node>
 	
-	<Node Name="Gong1_b0" Gong="Gong_1_Shui">
+	<Node Name="Gong1_b0" Gong="YuriHakuLaw">
 		<Esoterica>Magic_PrayForRain_1</Esoterica>
 		<DisplayName>求雨术</DisplayName>
 		<Level>Dan1</Level>
@@ -146,7 +146,7 @@
 		<GodCount>0</GodCount>
 	</Node>
 	
-	<Node Name="Gong1_b1" Gong="Gong_1_Shui">
+	<Node Name="Gong1_b1" Gong="YuriHakuLaw">
 		<Esoterica>Magic_GanLingShu</Esoterica>
 		<DisplayName>甘霖术</DisplayName>
 		<Level>Dan1</Level>
@@ -167,7 +167,7 @@
 		<GodCount>0</GodCount>
 	</Node>
 	
-	<Node Name="Gong1_b2" Gong="Gong_1_Shui">
+	<Node Name="Gong1_b2" Gong="YuriHakuLaw">
 		<Esoterica>Magic_FengshuiItemOpen</Esoterica>
 		<DisplayName>风水鉴定</DisplayName>
 		<Level>Dan1</Level>
@@ -191,19 +191,19 @@
 		<GodCount>0</GodCount>
 	</Node>
 	
-<!-- 	<Node Name="Gong1_b2_1" Gong="Gong_1_Shui">
+<!-- 	<Node Name="Gong1_b2_1" Gong="YuriHakuLaw">
 		<Esoterica>Gong1_LvUpEsoterica_9</Esoterica>
 		<DisplayName>风水凝练</DisplayName>
 		<Level>None</Level>
 	</Node>
 	 -->
 	
-	<Node Name="Gong1_b3" Gong="Gong_1_Shui">
+	<Node Name="Gong1_b3" Gong="YuriHakuLaw">
 		<Level>Dan1</Level>
 		<Index>3</Index>
 		<Line>0,0,0,0,0,1,2,0</Line>	
 	</Node>
-	<Node Name="Gong1_b4" Gong="Gong_1_Shui">
+	<Node Name="Gong1_b4" Gong="YuriHakuLaw">
 		<Esoterica>Gong1_Esoterica_2</Esoterica>
 		<DisplayName>太和御气</DisplayName>
 		<Level>Dan1</Level>
@@ -224,7 +224,7 @@
 		<GodCount>0</GodCount>
 	</Node>
 	
-	<Node Name="Gong1_b5" Gong="Gong_1_Shui">
+	<Node Name="Gong1_b5" Gong="YuriHakuLaw">
 		<Esoterica>Magic_AbsorbGong_8_1</Esoterica>
 		<DisplayName>清心咒</DisplayName>
 		<Level>Dan1</Level>
@@ -245,7 +245,7 @@
 		<GodCount>0</GodCount>
 	</Node>
 	
-	<Node Name="Gong1_b6" Gong="Gong_1_Shui">
+	<Node Name="Gong1_b6" Gong="YuriHakuLaw">
 		<Level>Dan1</Level>
 		<Index>6</Index>
 		<Line>1,0,1,0,1,0,1,0</Line>	
@@ -253,7 +253,7 @@
 	
 	
 	
-	<Node Name="Gong1_b7" Gong="Gong_1_Shui">
+	<Node Name="Gong1_b7" Gong="YuriHakuLaw">
 		<Esoterica>Magic_PlantGrowUp_1</Esoterica>
 		<DisplayName>御木诀</DisplayName>
 		<Level>Dan1</Level>
@@ -277,13 +277,13 @@
 		<GodCount>0</GodCount>
 	</Node>
 	
-	<Node Name="Gong1_b7_1" Gong="Gong_1_Shui">
+	<Node Name="Gong1_b7_1" Gong="YuriHakuLaw">
 		<Esoterica>Gong1_LvUpEsoterica_1</Esoterica>
 		<DisplayName>天霖诀</DisplayName>
 		<Level>None</Level>
 	</Node>
 	
-	<Node Name="Gong1_b8" Gong="Gong_1_Shui">
+	<Node Name="Gong1_b8" Gong="YuriHakuLaw">
 		<Esoterica>FightSkillEsoterica_Gong1_1</Esoterica>
 		<DisplayName>天水化伤</DisplayName>
 		<Level>Dan1</Level>
@@ -307,19 +307,19 @@
 		<GodCount>0</GodCount>
 	</Node>
 	
-	<Node Name="Gong1_b8_1" Gong="Gong_1_Shui">
+	<Node Name="Gong1_b8_1" Gong="YuriHakuLaw">
 		<Esoterica>Gong1_LvUpEsoterica_2</Esoterica>
 		<DisplayName>天一真法</DisplayName>
 		<Level>None</Level>
 	</Node>
 	
-	<Node Name="Gong1_b9" Gong="Gong_1_Shui">
+	<Node Name="Gong1_b9" Gong="YuriHakuLaw">
 		<Level>Dan1</Level>
 		<Index>9</Index>
 		<Line>0,0,0,0,0,1,2,0</Line>	
 	</Node>
 	
-	<Node Name="Gong1_b10" Gong="Gong_1_Shui">
+	<Node Name="Gong1_b10" Gong="YuriHakuLaw">
 		<Esoterica>Gong1_Esoterica_6</Esoterica>
 		<DisplayName>采水诀</DisplayName>
 		<Level>Dan1</Level>
@@ -340,13 +340,13 @@
 		<GodCount>0</GodCount>
 	</Node>
 	
-	<Node Name="Gong1_b11" Gong="Gong_1_Shui">
+	<Node Name="Gong1_b11" Gong="YuriHakuLaw">
 		<Level>Dan1</Level>
 		<Index>11</Index>
 		<Line>0,0,0,0,0,0,2,1</Line>	
 	</Node>
 	
-	<Node Name="Gong1_c0" Gong="Gong_1_Shui">
+	<Node Name="Gong1_c0" Gong="YuriHakuLaw">
 		<Esoterica>Magic_ClosedDoor_1</Esoterica>
 		<DisplayName>入定之术</DisplayName>
 		<Level>Dan2</Level>
@@ -370,13 +370,13 @@
 		<GodCount>0</GodCount>
 	</Node>
 	
-	<Node Name="Gong1_c0_1" Gong="Gong_1_Shui">
+	<Node Name="Gong1_c0_1" Gong="YuriHakuLaw">
 		<Esoterica>Gong1_LvUpEsoterica_3</Esoterica>
 		<DisplayName>水镜观心定</DisplayName>
 		<Level>None</Level>
 	</Node>
 	
-	<Node Name="Gong1_c1" Gong="Gong_1_Shui">
+	<Node Name="Gong1_c1" Gong="YuriHakuLaw">
 		<Esoterica>Magic_AbsorbLing_Aoe_1</Esoterica>
 		<DisplayName>灵息诀</DisplayName>
 		<Level>Dan2</Level>
@@ -398,7 +398,7 @@
 	</Node>
 	
 	
-	<Node Name="Gong1_c2" Gong="Gong_1_Shui">
+	<Node Name="Gong1_c2" Gong="YuriHakuLaw">
 		<Esoterica>Magic_RebornSelf</Esoterica>
 		<DisplayName>玄牝重生</DisplayName>
 		<Level>Dan2</Level>
@@ -419,7 +419,7 @@
 		<GodCount>0</GodCount>
 	</Node>
 	
-	<Node Name="Gong1_c3" Gong="Gong_1_Shui">
+	<Node Name="Gong1_c3" Gong="YuriHakuLaw">
 		<Esoterica>Gong1_Esoterica_3</Esoterica>
 		<DisplayName>乘风诀</DisplayName>
 		<Level>Dan2</Level>
@@ -443,13 +443,13 @@
 		<GodCount>0</GodCount>
 	</Node>
 	
-	<Node Name="Gong1_c3_1" Gong="Gong_1_Shui">
+	<Node Name="Gong1_c3_1" Gong="YuriHakuLaw">
 		<Esoterica>Gong1_LvUpEsoterica_4</Esoterica>
 		<DisplayName>同风诀</DisplayName>
 		<Level>None</Level>
 	</Node>
 	
-	<Node Name="Gong1_c4" Gong="Gong_1_Shui">
+	<Node Name="Gong1_c4" Gong="YuriHakuLaw">
 		<Esoterica>Gong1_Esoterica_5</Esoterica>
 		<DisplayName>奔流诀</DisplayName>
 		<Level>Dan2</Level>
@@ -473,31 +473,31 @@
 		<GodCount>0</GodCount>
 	</Node>
 	
-	<Node Name="Gong1_c4_1" Gong="Gong_1_Shui">
+	<Node Name="Gong1_c4_1" Gong="YuriHakuLaw">
 		<Esoterica>Gong1_LvUpEsoterica_5</Esoterica>
 		<DisplayName>归海诀</DisplayName>
 		<Level>None</Level>
 	</Node>
 	
 	
-	<Node Name="Gong1_c5" Gong="Gong_1_Shui">
+	<Node Name="Gong1_c5" Gong="YuriHakuLaw">
 		<Level>Dan2</Level>
 		<Index>5</Index>
 		<Line>0,0,0,0,0,1,2,1</Line>	
 	</Node>
 	
-	<Node Name="Gong1_c6" Gong="Gong_1_Shui">
+	<Node Name="Gong1_c6" Gong="YuriHakuLaw">
 		<Level>Dan2</Level>
 		<Index>6</Index>
 		<Line>1,0,1,0,1,0,0,1</Line>	
 	</Node>
 	
-	<Node Name="Gong1_c8" Gong="Gong_1_Shui">
+	<Node Name="Gong1_c8" Gong="YuriHakuLaw">
 		<Level>Dan2</Level>
 		<Index>8</Index>
 		<Line>1,0,1,0,1,0,2,0</Line>	
 	</Node>
-	<Node Name="Gong1_c9" Gong="Gong_1_Shui">
+	<Node Name="Gong1_c9" Gong="YuriHakuLaw">
 		<Esoterica>Gong1_Esoterica_7</Esoterica>
 		<DisplayName>水精真形</DisplayName>
 		<Level>Dan2</Level>
@@ -515,7 +515,7 @@
 		<GodCount>0</GodCount>
 	</Node>
 	
-	<Node Name="Gong1_c10" Gong="Gong_1_Shui">
+	<Node Name="Gong1_c10" Gong="YuriHakuLaw">
 		<Esoterica>Gong1_Esoterica_8</Esoterica>
 		<DisplayName>水气真形</DisplayName>
 		<Level>Dan2</Level>
@@ -533,7 +533,7 @@
 		<GodCount>0</GodCount>
 	</Node>
 	
-	<Node Name="Gong1_c11" Gong="Gong_1_Shui">
+	<Node Name="Gong1_c11" Gong="YuriHakuLaw">
 		<Esoterica>Gong1_Esoterica_9</Esoterica>
 		<DisplayName>水神真形</DisplayName>
 		<Level>Dan2</Level>
@@ -550,7 +550,7 @@
 		<GoldLevel>0</GoldLevel>
 		<GodCount>0</GodCount>
 	</Node>
-	<Node Name="Gong1_d0" Gong="Gong_1_Shui">
+	<Node Name="Gong1_d0" Gong="YuriHakuLaw">
 		<Esoterica>Magic_PrayForRainstorm</Esoterica>
 		<DisplayName>暴雨术</DisplayName>
 		<Level>God</Level>
@@ -575,7 +575,7 @@
 		<GodCount>0</GodCount>
 	</Node>
 	
-	<Node Name="Gong1_d0_1" Gong="Gong_1_Shui">
+	<Node Name="Gong1_d0_1" Gong="YuriHakuLaw">
 		<Esoterica>Gong1_LvUpEsoterica_6</Esoterica>
 		<DisplayName>九阴真水界</DisplayName>
 		<Level>None</Level>
@@ -583,7 +583,7 @@
 	
 	
 	
-	<Node Name="Gong1_d1" Gong="Gong_1_Shui">
+	<Node Name="Gong1_d1" Gong="YuriHakuLaw">
 		<Esoterica>Magic_WanWuTongLing1</Esoterica>
 		<DisplayName>玄魂造命</DisplayName>
 		<Level>God</Level>
@@ -605,7 +605,7 @@
 		<GodCount>0</GodCount>
 	</Node>
 	
-	<Node Name="Gong1_d5" Gong="Gong_1_Shui">
+	<Node Name="Gong1_d5" Gong="YuriHakuLaw">
 		<Esoterica>Gong1_Esoterica_4</Esoterica>
 		<DisplayName>罡煞合流</DisplayName>
 		<Level>God</Level>
@@ -631,18 +631,18 @@
 		<GodCount>0</GodCount>
 	</Node>
 	
-	<Node Name="Gong1_d5_1" Gong="Gong_1_Shui">
+	<Node Name="Gong1_d5_1" Gong="YuriHakuLaw">
 		<Esoterica>Gong1_LvUpEsoterica_7</Esoterica>
 		<DisplayName>罡煞合流</DisplayName>
 		<Level>None</Level>
 	</Node>
-	<Node Name="Gong1_d5_2" Gong="Gong_1_Shui">
+	<Node Name="Gong1_d5_2" Gong="YuriHakuLaw">
 		<Esoterica>Gong1_LvUpEsoterica_8</Esoterica>
 		<DisplayName>罡煞合流</DisplayName>
 		<Level>None</Level>
 	</Node>
 	
-	<Node Name="Gong1_d8" Gong="Gong_1_Shui">
+	<Node Name="Gong1_d8" Gong="YuriHakuLaw">
 		<Esoterica>Magic_Healing_Intelligence_1</Esoterica>
 		<DisplayName>醍醐灌顶</DisplayName>
 		<Level>God</Level>
@@ -663,7 +663,7 @@
 		<GodCount>0</GodCount>
 	</Node>
 	
-	<Node Name="Gong1_1_e4" Gong="Gong_1_Shui">
+	<Node Name="Gong1_1_e4" Gong="YuriHakuLaw">
 		<Esoterica>God2_Dan</Esoterica>
 		<DisplayName>天道神丹</DisplayName>
 		<Level>God2</Level>
@@ -684,7 +684,7 @@
 		<GodCount>0</GodCount>
 	</Node>
 	
-	<Node Name="Gong1_1_e8" Gong="Gong_1_Shui">
+	<Node Name="Gong1_1_e8" Gong="YuriHakuLaw">
 		<Esoterica>God2_Fabao</Esoterica>
 		<DisplayName>天道神器</DisplayName>
 		<Level>God2</Level>
