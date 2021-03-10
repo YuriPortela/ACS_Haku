@@ -1,8 +1,8 @@
 ﻿<SkillTree>
 	<List>
 		<Node Name="YuriHakuLaw_a0" Gong="YuriHakuLaw">
-			<Esoterica>YuriHakuEsoterica_WalkOnWaterTechnique</Esoterica>
-			<DisplayName>Walk on Water Technique</DisplayName>
+			<Esoterica>YuriHakuEsoterica_WaterWalking</Esoterica>
+			<DisplayName>Water Walking</DisplayName>
 			<Level>Qi</Level>
 			<Index>0</Index>
 			<Line>0,0,0,0,1,0,2,0</Line>

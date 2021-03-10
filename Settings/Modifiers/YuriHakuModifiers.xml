@@ -1,7 +1,7 @@
 <ModifierDefs>
 	<List>
-		<Modifier Name="YuriHakuModifier_WalkOnWaterTechnique" Type="Normal">
-			<DisplayName>Walk on Water Technique Modifier</DisplayName>
+		<Modifier Name="YuriHakuModifier_WaterWalking" Type="Normal">
+			<DisplayName>Water Walking Modifier</DisplayName>
 			<Desc>This modifier increases the user Speed, Adventure Speed and Max Qi.</Desc>
 			<MaxStack>0</MaxStack>
 			<Duration>0</Duration>
@@ -10,8 +10,8 @@
 			<!--跨场景时是否同步-->
 			<Properties>
 				<li Name="MoveSpeed" AddV="10"/>
-				<li Name="WorldMapFlySpeedAddP" AddV="2"/>
-				<li Name="NpcLingMaxValue" AddP="5"/>
+				<li Name="WorldMapFlySpeedAddP" AddV="1"/>
+				<li Name="NpcLingMaxValue" BAddV="50"/>
 			</Properties>
 		</Modifier>
 	</List>

@@ -3,13 +3,14 @@
     "DisplayName": "Yuri's Haku Law",
     "GameVersion": 1,
     "Version": 0.1,
-    "Desc": "This mod adds a Law based on Haku from the Naruto Anime.",
+    "Desc": "This mod adds a Law based on Haku from the Naruto Anime.\n Credits to Rithgard for the game assets, thank you!",
     "Author": "Yuri Portela",
     "UIPackage": null,
     "Tags": [
         "Function",
         "Usability",
-        "ExcludeRealmsHeaven"
+        "ExcludeRealmsHeaven",
+        "Non-Chinese"
     ],
     "IncreasedDesc": "Version 0.1\n This is just a test law.",
     "IsInsideCreat": false

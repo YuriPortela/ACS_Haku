@@ -1,15 +1,16 @@
 <Esotericas>
 	<List>
-		<Esoterica Name="YuriHakuEsoterica_WalkOnWaterTechnique">
-			<DisplayName>Walk on Water Technique</DisplayName>
-			<StarLevel>1</StarLevel>
+		<Esoterica Name="YuriHakuEsoterica_WaterWalking">
+			<DisplayName>Water Walking</DisplayName>
+			<Icon>res/Sprs/ui/icon_jichu</Icon>
+			<StarLevel>0</StarLevel>
 			<Difficulty>1</Difficulty>
 			<Desc>Through this technique the user has to be emitting a constant stream of Qi from the bottom of the their feet and using the repellent force to walk across the water's surface.</Desc>
 			<Type>Gong</Type>
 			<GLevel>Qi</GLevel>
 			<Element>Shui</Element>
 			<EffectDesc>This technique increases the user Speed, Adventure Speed and Max Qi.</EffectDesc>
-			<Modifier>YuriHakuModifier_WalkOnWaterTechnique</Modifier>
+			<Modifier>YuriHakuModifier_WaterWalking</Modifier>
 		</Esoterica>
 	</List>
 </Esotericas>
