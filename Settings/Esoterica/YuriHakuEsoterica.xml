@@ -8,9 +8,22 @@
 			<Desc>Through this technique the user has to be emitting a constant stream of Qi from the bottom of the their feet and using the repellent force to walk across the water's surface.</Desc>
 			<Type>Gong</Type>
 			<GLevel>Qi</GLevel>
-			<Element>Shui</Element>
+			<Element>None</Element>
 			<EffectDesc>This technique increases the user Speed, Adventure Speed and Max Qi.</EffectDesc>
 			<Modifier>YuriHakuModifier_WaterWalking</Modifier>
+		</Esoterica>
+
+		<Esoterica Name="YuriHakuEsoterica_SilentKilling">
+			<DisplayName>Silent Killing</DisplayName>
+			<Icon>res/Sprs/ui/icon_jichu</Icon>
+			<StarLevel>0</StarLevel>
+			<Difficulty>1</Difficulty>
+			<Desc>Through this technique the user learns a soundless method of killing an opponent using Acupuncture Needles.</Desc>
+			<Type>Gong</Type>
+			<GLevel>Qi</GLevel>
+			<Element>None</Element>
+			<EffectDesc>This technique increases the user Speed, Adventure Speed and Max Qi.</EffectDesc>
+			<Modifier>YuriHakuModifier_SilentKilling</Modifier>
 		</Esoterica>
 	</List>
 </Esotericas>
