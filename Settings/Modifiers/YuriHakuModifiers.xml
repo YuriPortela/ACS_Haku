@@ -30,7 +30,7 @@
 
 		<Modifier Name="YuriHakuModifier_SilentKilling" Type="Normal">
 			<DisplayName>Silent Killing Modifier</DisplayName>
-			<Desc>This skill increases the user Artifact Power; Flying Speed; Turn Speed and Trail Lenght.</Desc>
+			<Desc>This skill increases the user Artifact Power; Flying Speed; Turn Speed and Trail Length.</Desc>
 			<MaxStack>0</MaxStack>
 			<Duration>0</Duration>
 			<Display>1</Display>

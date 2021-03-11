@@ -35,7 +35,7 @@
 			<Type>Gong</Type>
 			<GLevel>Qi</GLevel>
 			<Element>None</Element>
-			<EffectDesc>This skill increases the user Artifact Power; Flying Speed; Turn Speed and Trail Lenght.</EffectDesc>
+			<EffectDesc>This skill increases the user Artifact Power; Flying Speed; Turn Speed and Trail Length.</EffectDesc>
 			<Modifier>YuriHakuModifier_SilentKilling</Modifier>
 		</Esoterica>
 	</List>
