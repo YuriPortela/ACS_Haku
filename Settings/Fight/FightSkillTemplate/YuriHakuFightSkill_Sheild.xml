@@ -1,0 +1,22 @@
+<FightSkills>
+	<List>
+		<Skill Name="YuriHakuFightSkillShield_DemonicMirroringIceCrystals">
+			<DisplayName>Secret Technique: Demonic Mirroring Ice Crystals</DisplayName>
+			<IsTemplate>0</IsTemplate>
+			<Kind>Sheild</Kind>
+			<ShowInUI>1</ShowInUI>
+			<SingTime>0.5</SingTime>
+			<CD>15</CD>
+			<LingCost>100</LingCost>
+			<SingAni>assemble</SingAni>
+			<CastAni>LJjineng10</CastAni>
+			<Value>1</Value>
+			<Value2>15</Value2>
+			<TargetCamp>Friendly</TargetCamp>
+
+			<Shape>Single</Shape>
+			<SelectType>Self</SelectType>
+			<HitEffect>60</HitEffect>
+		</Skill>
+	</List>
+</FightSkills>

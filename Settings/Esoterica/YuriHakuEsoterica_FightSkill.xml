@@ -1,0 +1,18 @@
+<Esotericas>
+	<List>
+		<Esoterica Name="YuriHakuFightSkillEsoterica_DemonicMirroringIceCrystals">
+			<DisplayName>Secret Technique: Demonic Mirroring Ice Crystals</DisplayName>
+			<Icon>res/Sprs/ui/icon_shufa</Icon>
+			<StarLevel>0</StarLevel>
+			<Difficulty>3</Difficulty>
+			<Desc>Description</Desc>
+			<GLevel>Dan1</GLevel>
+			<Element>Shui</Element>
+			<Type>Skill</Type>
+			<EffectDesc>Effect Description</EffectDesc>
+			<Skills>
+				<li>YuriHakuFightSkillShield_DemonicMirroringIceCrystals</li>
+			</Skills>
+		</Esoterica>
+	</List>
+</Esotericas>

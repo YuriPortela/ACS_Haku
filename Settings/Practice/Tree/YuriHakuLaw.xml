@@ -71,7 +71,7 @@
 		</Node>
 
 		<Node Name="YuriHakuLaw_b1" Gong="YuriHakuLaw">
-			<Esoterica>YuriHakuEsoterica_DemonicMirroringIceCrystals</Esoterica>
+			<Esoterica>YuriHakuFightSkillEsoterica_DemonicMirroringIceCrystals</Esoterica>
 			<DisplayName>Secret Technique: Demonic Mirroring Ice Crystals</DisplayName>
 			<Level>Dan1</Level>
 			<Index>4</Index>
@@ -79,6 +79,7 @@
 			<PreUnit>
 				<li>YuriHakuLaw_a0</li>
 				<li>YuriHakuLaw_a1</li>
+				<li>YuriHakuLaw_b0</li>
 			</PreUnit>
 			<!--<MutexUnit> <li></li> </MutexUnit>-->
 			<FiveBase>0,0,0,0,0</FiveBase>
