@@ -1,8 +1,22 @@
 <ModifierDefs>
 	<List>
+		<Modifier Name="YuriHakuModifier_QiShaping" Type="Normal">
+			<DisplayName>Qi Shaping Modifier</DisplayName>
+			<Desc>This skill increases the user Max Qi.</Desc>
+			<MaxStack>0</MaxStack>
+			<Duration>0</Duration>
+			<Display>1</Display>
+			<Sync>1</Sync>
+			<!--跨场景时是否同步-->
+			<Properties>
+				<li Name="NpcLingMaxValue" BAddV="50"/>
+				<li Name="NpcLingMaxValue" AddP="1"/>
+			</Properties>
+		</Modifier>
+
 		<Modifier Name="YuriHakuModifier_WaterWalking" Type="Normal">
 			<DisplayName>Water Walking Modifier</DisplayName>
-			<Desc>This modifier increases the user Speed, Adventure Speed and Max Qi.</Desc>
+			<Desc>This skill increases the user Speed and Adventure Speed.</Desc>
 			<MaxStack>0</MaxStack>
 			<Duration>0</Duration>
 			<Display>1</Display>
@@ -11,14 +25,12 @@
 			<Properties>
 				<li Name="MoveSpeed" AddV="10"/>
 				<li Name="WorldMapFlySpeedAddP" AddV="1"/>
-				<li Name="NpcLingMaxValue" BAddV="50"/>
-				<li Name="NpcLingMaxValue" AddP="1"/>
 			</Properties>
 		</Modifier>
 
 		<Modifier Name="YuriHakuModifier_SilentKilling" Type="Normal">
 			<DisplayName>Silent Killing Modifier</DisplayName>
-			<Desc>Lorem Ipsum</Desc>
+			<Desc>This skill increases the user Artifact Power; Flying Speed; Turn Speed and Trail Lenght.</Desc>
 			<MaxStack>0</MaxStack>
 			<Duration>0</Duration>
 			<Display>1</Display>
