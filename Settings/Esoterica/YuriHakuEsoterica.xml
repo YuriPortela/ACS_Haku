@@ -28,7 +28,7 @@
 
 		<Esoterica Name="YuriHakuEsoterica_SilentKilling">
 			<DisplayName>Silent Killing</DisplayName>
-			<Icon>res/Sprs/ui/icon_jichu</Icon>
+			<Icon>res/Sprs/ui/icon_yujian</Icon>
 			<StarLevel>0</StarLevel>
 			<Difficulty>3</Difficulty>
 			<Desc>Through this technique the user learns a soundless method of killing an opponent by quickly attacking their weak points.</Desc>
@@ -50,6 +50,19 @@
 			<Element>None</Element>
 			<EffectDesc>This technique increases their Max Qi.</EffectDesc>
 			<Modifier>YuriHakuModifier_CoreShaping</Modifier>
+		</Esoterica>
+
+		<Esoterica Name="YuriHakuEsoterica_DemonicMirroringIceCrystals">
+			<DisplayName>Secret Technique: Demonic Mirroring Ice Crystals</DisplayName>
+			<Icon>res/Sprs/ui/icon_hudunzengqiang01</Icon>
+			<StarLevel>0</StarLevel>
+			<Difficulty>5</Difficulty>
+			<Desc>This technique creates several large mirrors out of ice, which the user surrounds a target with. By entering one of these mirrors, the user reflection will appear in all of them. The user can travel between these mirrors near-instantaneously, giving the appearance that he occupies all of them simultaneously. As such, any attacks he makes from these mirrors - usually rapid volleys of thrown senbon - can overwhelm opponents, seemingly coming from every mirror at once.</Desc>
+			<Type>Gong</Type>
+			<GLevel>Qi</GLevel>
+			<Element>Shui</Element>
+			<EffectDesc>This technique increases the user Speed, the Artifact Flying Speed and Turn Speed.</EffectDesc>
+			<Modifier>YuriHakuModifier_DemonicMirroringIceCrystals</Modifier>
 		</Esoterica>
 	</List>
 </Esotericas>

@@ -57,5 +57,20 @@
 				<li Name="NpcLingMaxValue" AddP="0.5"/>
 			</Properties>
 		</Modifier>
+
+		<Modifier Name="YuriHakuModifier_DemonicMirroringIceCrystals" Type="Normal">
+			<DisplayName>Secret Technique: Demonic Mirroring Ice Crystals Modifier</DisplayName>
+			<Desc>This skill increases the user Speed, the Artifact Flying Speed and Turn Speed.</Desc>
+			<MaxStack>0</MaxStack>
+			<Duration>0</Duration>
+			<Display>1</Display>
+			<Sync>1</Sync>
+			<!--跨场景时是否同步-->
+			<Properties>
+				<li Name="MoveSpeed" AddV="50"/>
+				<li Name="NpcFight_FabaoFlySpeedAddP" AddP="1"/>
+				<li Name="NpcFight_FabaoTurnSpeedAddP" AddP="1"/>
+			</Properties>
+		</Modifier>
 	</List>
 </ModifierDefs>
