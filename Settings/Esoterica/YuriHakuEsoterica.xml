@@ -18,11 +18,11 @@
 			<Icon>res/Sprs/ui/icon_jichu</Icon>
 			<StarLevel>0</StarLevel>
 			<Difficulty>1</Difficulty>
-			<Desc>Through this technique the user learns a soundless method of killing an opponent using Acupuncture Needles.</Desc>
+			<Desc>Through this technique the user learns a soundless method of killing an opponent by attacking their weak points.</Desc>
 			<Type>Gong</Type>
 			<GLevel>Qi</GLevel>
 			<Element>None</Element>
-			<EffectDesc>This technique increases the user Speed, Adventure Speed and Max Qi.</EffectDesc>
+			<EffectDesc>Lorem Ipsum</EffectDesc>
 			<Modifier>YuriHakuModifier_SilentKilling</Modifier>
 		</Esoterica>
 	</List>

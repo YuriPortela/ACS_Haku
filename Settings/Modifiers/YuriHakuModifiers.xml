@@ -12,19 +12,23 @@
 				<li Name="MoveSpeed" AddV="10"/>
 				<li Name="WorldMapFlySpeedAddP" AddV="1"/>
 				<li Name="NpcLingMaxValue" BAddV="50"/>
+				<li Name="NpcLingMaxValue" AddP="1"/>
 			</Properties>
 		</Modifier>
 
 		<Modifier Name="YuriHakuModifier_SilentKilling" Type="Normal">
 			<DisplayName>Silent Killing Modifier</DisplayName>
-			<Desc>This modifier increases the user Speed, Adventure Speed and Max Qi.</Desc>
+			<Desc>Lorem Ipsum</Desc>
 			<MaxStack>0</MaxStack>
 			<Duration>0</Duration>
 			<Display>1</Display>
 			<Sync>1</Sync>
 			<!--跨场景时是否同步-->
 			<Properties>
-				<li Name="MoveSpeed" AddV="10"/>
+				<li Name="NpcFight_FabaoPowerAddP" AddP="1"/>
+				<li Name="NpcFight_FabaoFlySpeedAddP" AddV="1"/>
+				<li Name="NpcFight_FabaoTurnSpeedAddP" AddV="1"/>
+				<li Name="NpcFight_FabaoTrailingLengthAddP" AddV="1"/>
 			</Properties>
 		</Modifier>
 	</List>
